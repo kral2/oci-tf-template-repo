@@ -10,6 +10,12 @@ Given a version number MAJOR.MINOR.PATCH:
 - MINOR version when adding functionality in a backwards compatible manner,
 - PATCH version when making backwards compatible bug fixes.
 
+## [Unreleased]
+
+### Fixed
+
+- missing requirements: terraform, terraform-docs
+
 ## [0.1.0] - 2021-02-02
 
 Initial release

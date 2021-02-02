@@ -20,6 +20,8 @@ There is also some settings specific to [OCI](https://www.oracle.com/cloud/) to 
 ### Requirements
 
 - [pre-commit](https://pre-commit.com/)
+- [terraform-docs](https://github.com/terraform-docs/terraform-docs)
+- [terraform cli](https://www.terraform.io/downloads.html)
 
 ### How to use this repo
 
