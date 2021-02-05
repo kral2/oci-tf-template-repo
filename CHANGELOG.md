@@ -15,6 +15,7 @@ Given a version number MAJOR.MINOR.PATCH:
 ### Fixed
 
 - missing requirements: terraform, terraform-docs
+- switch terraform-fmt hook from gruntwork (detect only) to ababenko version (fix files)
 
 ## [0.1.0] - 2021-02-02
 

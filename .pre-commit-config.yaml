@@ -8,8 +8,8 @@ repos:
   rev: v0.1.12 # Get the latest from: https://github.com/gruntwork-io/pre-commit/releases
   hooks:
     - id: terraform-validate
-    - id: terraform-fmt
 - repo: https://github.com/antonbabenko/pre-commit-terraform
   rev: v1.45.0 # Get the latest from: https://github.com/antonbabenko/pre-commit-terraform/releases
   hooks:
     - id: terraform_docs
+    - id: terraform_fmt #* this version of terraform fmt hook fix files
