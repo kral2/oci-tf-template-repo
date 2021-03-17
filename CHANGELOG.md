@@ -10,7 +10,12 @@ Given a version number MAJOR.MINOR.PATCH:
 - MINOR version when adding functionality in a backwards compatible manner,
 - PATCH version when making backwards compatible bug fixes.
 
-## [Unreleased]
+## [0.2.0] - 2021-03-17
+
+### Changed
+
+- terraform version requirement is now 0.13 or greater
+- default branch is now `main`
 
 ### Fixed
 
